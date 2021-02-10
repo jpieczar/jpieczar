@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page
 
 <div align="center">
-### - Learning
+### - Learning :
 - Information Security
 - C++
 - Javascript

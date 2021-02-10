@@ -16,6 +16,6 @@
 <img src="https://github.com/jpieczar/jpieczar/blob/main/assets/bash.svg" alt="bash" width="50" hight="25">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jpieczar&&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jpieczar&&show_icons=true&theme=blue-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpieczar&layout=compact"/>
 </div>

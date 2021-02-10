@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome to my GitHub page
 
-<!--
-**jpieczar/jpieczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+### - Learning
+- Information Security
+- C++
+- Javascript
+- Perl
+- Electronics
+</br>
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/c.svg" alt="c" width="100" hight="50">
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/php.svg" alt="php" width="100" hight="50">
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/java.svg" alt="java" width="100" hight="50">
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/python.svg" alt="python" width="100" hight="50">
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/linux.svg" alt="linux" width="100" hight="50">
+<img src="https://github.com/jpieczar/jpieczar/blob/main/assets/bash.svg" alt="bash" width="100" hight="50">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jpieczar&&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpieczar&layout=compact"/>
+</div>

@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page
 </br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na">
 </br>
 <pre>
 	- C
